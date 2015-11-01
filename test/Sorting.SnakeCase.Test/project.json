@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0-*",
+  "description": "Sorting.SnakeCase.Test Class Library",
+  "authors": [ "Sorting" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": {
+      "dependencies": {
+        "Moq": "4.2.1510.2205",
+        "xunit.runner.visualstudio": "2.1.0"
+      }
+    },
+    "dnxcore50": {
+      "dependencies": {
+        "Microsoft.CSharp": "4.0.1-beta-23409",
+        "System.Collections": "4.0.11-beta-23409",
+        "System.Linq": "4.0.1-beta-23409",
+        "System.Runtime": "4.0.21-beta-23409",
+        "System.Threading": "4.0.11-beta-23409"
+      }
+    }
+  },
+  "dependencies": {
+    "Microsoft.AspNet.Http": "1.0.0-beta8",
+    "Microsoft.Framework.Primitives": "1.0.0-beta8",
+    "Sorting.SnakeCase": "1.0.0-*",
+    "xunit": "2.1.0-*",
+    "xunit.runner.dnx": "2.1.0-*"
+  },
+  "commands": {
+    "test": "xunit.runner.dnx"
+  }
+}
