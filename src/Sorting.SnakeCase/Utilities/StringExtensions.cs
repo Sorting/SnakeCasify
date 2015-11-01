@@ -16,7 +16,7 @@ namespace Sorting.SnakeCase.Utilities
             {
                 return s;
             }
-            s.ToLower();
+
             int length = s.Length,
                 latestTrailingUcaseIndex = -1,
                 addedUnderscores = 0;
