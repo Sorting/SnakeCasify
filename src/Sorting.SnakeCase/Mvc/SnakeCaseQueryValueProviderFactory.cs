@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Microsoft.AspNet.Mvc.ModelBinding;
 using System.Globalization;
+using Microsoft.AspNet.Mvc.ModelBinding;
 
 namespace Sorting.SnakeCase.Mvc
 {

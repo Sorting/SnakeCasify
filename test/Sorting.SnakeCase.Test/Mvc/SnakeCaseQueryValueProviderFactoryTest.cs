@@ -5,8 +5,8 @@ using System.Collections.Generic;
 using System.Globalization;
 using Microsoft.AspNet.Mvc.ModelBinding;
 using Microsoft.AspNet.Http;
-using Sorting.SnakeCase.Mvc;
 using Moq;
+using Sorting.SnakeCase.Mvc;
 using Xunit;
 
 namespace Sorting.SnakeCase.Test.Mvc

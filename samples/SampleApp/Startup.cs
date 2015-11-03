@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNet.Builder;
+﻿using Microsoft.AspNet.Builder;
 using Microsoft.AspNet.Hosting;
 using Microsoft.Framework.DependencyInjection;
 using Microsoft.Framework.Logging;
-using Sorting.SnakeCase.Mvc;
-using Microsoft.AspNet.Mvc.ModelBinding;
 using Microsoft.AspNet.Mvc.Formatters;
-using Sorting.SnakeCase.Json.Serialization;
 using Newtonsoft.Json;
+using Sorting.SnakeCase.Json.Serialization;
+using Sorting.SnakeCase.Mvc;
 
 namespace SampleApp
 {

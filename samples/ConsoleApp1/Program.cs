@@ -1,9 +1,7 @@
-﻿using Sorting.SnakeCase.Utilities;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Diagnostics;
 using System.Linq;
-using System.Threading.Tasks;
+using Sorting.SnakeCase.Utilities;
 
 namespace ConsoleApp1
 {

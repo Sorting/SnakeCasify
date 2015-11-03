@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNet.Mvc.ModelBinding;
-using Sorting.SnakeCase.Utilities;
+﻿using System.Globalization;
+using Microsoft.AspNet.Mvc.ModelBinding;
 using Microsoft.AspNet.Http;
-using System.Globalization;
+using Sorting.SnakeCase.Utilities;
 
 namespace Sorting.SnakeCase.Mvc
 {

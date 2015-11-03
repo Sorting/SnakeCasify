@@ -1,6 +1,6 @@
-﻿using Newtonsoft.Json.Serialization;
+﻿using System;
+using Newtonsoft.Json.Serialization;
 using Sorting.SnakeCase.Utilities;
-using System;
 
 namespace Sorting.SnakeCase.Json.Serialization
 {

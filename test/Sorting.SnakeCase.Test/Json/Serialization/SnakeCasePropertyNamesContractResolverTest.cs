@@ -1,8 +1,8 @@
-﻿using Newtonsoft.Json;
-using Sorting.SnakeCase.Json.Serialization;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Dynamic;
+using Newtonsoft.Json;
+using Sorting.SnakeCase.Json.Serialization;
 using Xunit;
 
 namespace Sorting.SnakeCase.Test.Json.Serialization

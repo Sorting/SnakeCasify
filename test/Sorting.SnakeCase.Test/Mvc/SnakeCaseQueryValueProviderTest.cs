@@ -1,8 +1,8 @@
 ﻿using Sorting.SnakeCase.Mvc;
 using System.Globalization;
 using System.Collections.Generic;
-using Microsoft.AspNet.Mvc.ModelBinding;
 using Microsoft.AspNet.Http.Internal;
+using Microsoft.AspNet.Mvc.ModelBinding;
 using Microsoft.Framework.Primitives;
 using Xunit;
 
