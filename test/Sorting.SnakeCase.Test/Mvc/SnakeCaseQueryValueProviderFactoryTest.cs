@@ -16,7 +16,7 @@ namespace Sorting.SnakeCase.Test.Mvc
         private readonly SnakeCaseQueryValueProviderFactory _factory = new SnakeCaseQueryValueProviderFactory();
 
         [Fact]
-        public async Task GetValueProvider_ReturnsSnakeCaseQueryValueProviderInstanceWithInvariantCutlture()
+        public async Task GetValueProvider_ReturnsSnakeCaseQueryValueProviderInstanceWithInvariantCulture()
         {
             // Arrange
             var request = new Mock<HttpRequest>();
