@@ -25,7 +25,6 @@ namespace Sorting.SnakeCase.Test.Mvc
                     new Dictionary<string, StringValues>() {
                         { expectedKey, new StringValues("value") }
                     });
-            
 
             // Act
             var valueProvider = 
