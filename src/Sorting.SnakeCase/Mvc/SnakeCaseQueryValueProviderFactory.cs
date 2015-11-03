@@ -6,8 +6,8 @@ using System.Globalization;
 namespace Sorting.SnakeCase.Mvc
 {
     /// <summary>
-    /// A <see cref="IValueProviderFactory" that creates <see cref="SnakeCaseQueryValueProvider" instaces that />/>
-    /// read values from the request query-string.
+    /// A <see cref="IValueProviderFactory" that creates a <see cref="SnakeCaseQueryValueProvider" instance that />/>
+    /// reads values from the request query-string.
     /// </summary>
     public class SnakeCaseQueryValueProviderFactory : IValueProviderFactory
     {
