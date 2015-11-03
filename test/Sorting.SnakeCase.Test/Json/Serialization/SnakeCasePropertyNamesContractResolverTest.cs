@@ -9,7 +9,6 @@ namespace Sorting.SnakeCase.Test.Json.Serialization
 {
     public class SnakeCasePropertyNamesContractResolverTest
     {
-
         [Fact]
         public void JsonConvertSerializer_SerializeTest()
         {
@@ -34,7 +33,6 @@ namespace Sorting.SnakeCase.Test.Json.Serialization
   ""last_modified"": ""2013-10-21T18:23:12""
 }", json);
         }
-
 
         [Fact]
         public void JsonConvertSerializer_DeserializeTest()
